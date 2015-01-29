@@ -1,0 +1,152 @@
+#header {
+	}
+
+#img1 {
+}
+
+#img2 {
+}
+
+.row {
+	padding-top: 1.5em;
+	background-color: black;
+}
+
+.image-form text{
+font-family: Agenda-Light,Agenda\ Light,Agenda,Arial\ Narrow,sans-serif;
+font-weight: 100;
+font-size: 2rem;
+}
+
+.image-form {
+	position: absolute;
+	width: 100%;
+}
+
+.img-responsive-header {
+display: block;
+max-width: 100%;
+height: auto;
+float: right;
+}
+
+
+
+.title-text {
+	font-family: Agenda-Light,Agenda\ Light,Agenda,Arial\ Narrow,sans-serif;
+	font-weight: 100;
+	font-size: 4rem;
+	float: left;
+	Margin-top: 2.2em;
+}
+
+.header-image {
+	padding-left: 5em;
+	background-color: white;
+}
+
+.downButton {
+position: absolute;
+text-align: center;
+width: 100%;
+}
+
+h1 {
+	font-size: 100px;
+	font-family: "Verdana";
+}
+
+#menucontainer {
+background: rgba(0,0,0,.5);
+width: 10.5%;
+top: 20px;
+float: left;
+}
+
+#logo {
+background: url(chakra.jpg);
+background-size: cover;
+text-align: left;
+}
+
+#menucontainer ul{
+	list-style: none;
+	color: #fff;
+	font-size: 1.2em;
+	padding: .5em;
+	}
+#menucontainer li {
+	padding:.5em;
+	}
+	
+.center {
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+	
+.clear_element {
+    clear: both;
+    margin-bottom: 2px;
+}
+	
+	
+	
+
+	
+	
+	/* --FOOTER CSS-- */
+
+#footerSection {
+}
+
+.footer	{
+width: 100%;
+background: black;
+background-size: cover;
+height: 85px;
+padding-top: 1px;
+}
+	
+#share {
+float: left;
+display: block;
+}
+
+#share li {
+float: left;
+margin-right: 1px;
+}
+
+.footertext_1 {
+padding: 0 10px;
+line-height: 30px;
+color: white;
+}
+
+.footertext_2 {
+padding: 0 10px;
+height: 30px;
+line-height: 30px;
+color: #cccccc;
+list-style: none;
+}
+
+table, th, td {
+    border-collapse: collapse;
+}
+th, td {
+    padding: 15px;
+	color: #cccccc;
+}
+
+/* --NOT USED-- */
+
+#mainmenu {
+	margin: 2rem;
+	padding:.5em;
+	}
+	
+
+
+	
